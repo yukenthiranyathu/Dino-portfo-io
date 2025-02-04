@@ -1,7 +1,7 @@
 import React from 'react'
 import './MyWork.css'
-import pr1 from '../../assets/pr1.PNG'
-import pr2 from '../../assets/pr2.JPG'
+import pr1 from '../../assets/pr1.png'
+import pr2 from '../../assets/pr2.jpg'
 
 function MyWork() {
   return (

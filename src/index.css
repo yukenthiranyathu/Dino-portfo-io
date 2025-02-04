@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  height: 100vh;
+  background: #161513;
+  color: white;
+  
+}
+
+.navbar-logo {
+  padding: 3px 15px; 
+}
+
+.hero-profile {
+  padding: 3px 15px; 
+}
+
+.logo{
+  padding: 10px;
+}
